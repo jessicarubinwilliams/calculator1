@@ -37,4 +37,11 @@ $(document).ready(function() {
     const result = multiply(number1, number2);
     $("#output").text(result).addClass("jumbotron");
   });
+  $("form#divide").submit(function(event) {
+    event.preventDefault();
+    const number1 = parseInt($("#divide1").val());
+    const number2 = parseInt($("#divide2").val());
+    const result = divide(number1, number2);
+    $("#output").text(result).addClass("jumbotron");
+  });
 });
