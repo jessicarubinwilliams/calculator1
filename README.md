@@ -15,7 +15,7 @@
 
 ## Description
 
-_This is an assignment for Epicodus. It covers multiple lessons on business vs user interface logic found [here](https://www.learnhowtoprogram.com/lessons/business-and-user-interface-logic, [here](https://www.learnhowtoprogram.com/introduction-to-programming/javascript-and-jquery/calculator-business-logic), [here](https://www.learnhowtoprogram.com/introduction-to-programming/javascript-and-jquery/practice-calculator-business-logic), [here](https://www.learnhowtoprogram.com/introduction-to-programming/javascript-and-jquery/calculator-user-interface), and [here](https://www.learnhowtoprogram.com/introduction-to-programming/javascript-and-jquery/practice-calculator-user-interface)._
+_This is an assignment for Epicodus. It covers multiple lessons on business vs user interface logic and form input types. The lessons are found [here](https://www.learnhowtoprogram.com/lessons/business-and-user-interface-logic, [here](https://www.learnhowtoprogram.com/introduction-to-programming/javascript-and-jquery/calculator-business-logic), [here](https://www.learnhowtoprogram.com/introduction-to-programming/javascript-and-jquery/practice-calculator-business-logic), [here](https://www.learnhowtoprogram.com/introduction-to-programming/javascript-and-jquery/calculator-user-interface), [here](https://www.learnhowtoprogram.com/introduction-to-programming/javascript-and-jquery/practice-calculator-user-interface), and [here](https://www.learnhowtoprogram.com/introduction-to-programming/javascript-and-jquery/calculator-with-branching)._
 
 ## Setup/Installation Requirements
 
